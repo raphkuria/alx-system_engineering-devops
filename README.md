@@ -1,1 +1,1 @@
-My readme
+Shell variables expansions
